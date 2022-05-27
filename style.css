@@ -79,24 +79,47 @@
     margin-right: 250px;
 }
 .facebook-drag{
-    width: 160px;
-    height: 60px;
+    width: 170px;
+    height: 50px;
     background-color: rgb(255, 255, 255);
     font-size: 12px;
     color: #000000;
+    padding: 15px 0 0 15px;
 }
 .facebook .p-two{
     left: 280px;
-    top: 20px;
+    top: 10px;
 }
 .facebook-drag-two{
-    width: 200px;
-    height: 60px;
+    /* width: 200px;
+    height: 40px; */
     background-color: rgb(255, 255, 255);
     font-size: 15px;
     color: #000000;
 }
 .facebook .p-three{
-    left: 200px;
+    left: 270px;
     top: 160px;
+}
+.drag .p-four{
+    border: 2px dashed rgb(202, 200, 200);
+    left: 125px;
+    top: 60px;
+    width: 150px;
+    height: 70px;
+}
+.facebook-drag-four{
+    font-size: 10px;
+    margin-top: -20px;
+    margin-left: 48px;
+}
+.facebook-drag-three{
+    margin-left: 45px;
+    margin-top: -37px;
+}
+.p-four img{
+    margin: 12px 0 0 8px;
+}
+.row-three-three p{
+    padding: 10px;
 }
